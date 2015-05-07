@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoqAndNUnit", "MoqAndNUnit\MoqAndNUnit.csproj", "{DB6F878D-9F9D-41F3-855F-99681CCB6273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoqAndNUnit.Tests", "MoqAndNUnit.Tests\MoqAndNUnit.Tests.csproj", "{1D18BBFD-E83A-4CD7-BEDF-188D2416904A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB6F878D-9F9D-41F3-855F-99681CCB6273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB6F878D-9F9D-41F3-855F-99681CCB6273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB6F878D-9F9D-41F3-855F-99681CCB6273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB6F878D-9F9D-41F3-855F-99681CCB6273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D18BBFD-E83A-4CD7-BEDF-188D2416904A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D18BBFD-E83A-4CD7-BEDF-188D2416904A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D18BBFD-E83A-4CD7-BEDF-188D2416904A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D18BBFD-E83A-4CD7-BEDF-188D2416904A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
